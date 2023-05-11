@@ -4,3 +4,4 @@ metadata:
   name: helloworld-ns
   labels:
     name: helloworld-ns
+    razee/watch-resource: lite
