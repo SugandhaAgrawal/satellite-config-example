@@ -5,3 +5,4 @@ metadata:
   labels:
     name: helloworld-ns
     razee/watch-resource: lite
+    dummy: test
